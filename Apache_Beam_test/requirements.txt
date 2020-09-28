@@ -1,0 +1,4 @@
+pyspark==2.3.0
+apache_beam==2.24.0
+pandas==0.25.3
+tqdm==4.41.1
